@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://luaukrodev.github.io/Piece-Launcher-Site/sitemap.xml
